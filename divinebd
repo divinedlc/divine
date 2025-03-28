@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "hwid": "00000000-0000-0000-7074-616C00000000",
+      "UID": "1",
+      "Nick": "MinionSwaga",
+      "Role": "Developer"
+    },
+    {
+      "hwid": "03000200-0400-0500-0006-000700080009",
+      "UID": "3",
+      "Nick": "dimpo89",
+      "Role": "User"
+    },
+    {
+      "hwid": "8B158285-4EAA-B246-860D-E2222D57A295",
+      "UID": "2",
+      "Nick": "Adventer",
+      "Role": "BetaTester"
+    },
+    {
+      "hwid": "",
+      "UID": "4",
+      "Nick": "",
+      "Role": "User"
+    },
+    {
+      "hwid": "",
+      "UID": "5",
+      "Nick": "",
+      "Role": "User"
+    }
+  ]
+}
