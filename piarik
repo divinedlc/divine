@@ -1,0 +1,10 @@
+{
+  "servers": [
+    {
+      "name": "Hypixel",
+      "ip": "mc.hypixel.net",
+      "version": "1.16.5",
+      "country": "RU"
+    }
+  ]
+}
