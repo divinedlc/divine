@@ -1,10 +1,4 @@
 {
-  "servers": [
-    {
-      "name": "За рекламой в лс fucking.minion",
-      "ip": "ваш айпи",
-      "version": "1.16.5",
-      "country": "RU"
-    }
-  ]
+  "name": "За рекламой в лс fucking.minion",
+  "ip": "ваш айпи"
 }
