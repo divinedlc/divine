@@ -1,12 +1,6 @@
 {
   "users": [
     {
-      "hwid": "CD08CD96-C940-8B1F-AECB-345A602ED0A2",
-      "UID": "1",
-      "Nick": "MinionSwaga",
-      "Role": "Developer"
-    },
-    {
       "hwid": "03000200-0400-0500-0006-000700080009",
       "UID": "3",
       "Nick": "dimpo89",
