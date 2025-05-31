@@ -29,6 +29,12 @@
       "UID": "5",
       "Nick": "snowfallen",
       "Role": "User"
+    },
+  {
+      "hwid": "285CD400-157D-11E0-B411-50465D0A9E64",
+      "UID": "1.1",
+      "Nick": "myracx",
+      "Role": "Developer"
     }
   ]
 }
