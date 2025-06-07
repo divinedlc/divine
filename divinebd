@@ -8,7 +8,7 @@
     },
     {
       "hwid": "03000200-0400-0500-0006-000700080009",
-      "UID": "420",
+      "UID": "6",
       "Nick": "shevi",
       "Role": "User"
     },
@@ -32,13 +32,13 @@
     },
     {
       "hwid": "285CD400-157D-11E0-B411-50465D0A9E64",
-      "UID": "1.1",
+      "UID": "1",
       "Nick": "myracx",
       "Role": "Developer"
     },
     {
       "hwid": "B917DD98-6364-AC1A-AB7A-2CF05D9F0B44",
-      "UID": "14881337",
+      "UID": "7",
       "Nick": "ynkixd",
       "Role": "User"
     }
